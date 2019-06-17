@@ -6,8 +6,3 @@ services:
     image: mongo
     ports:
       - "27017:27017"
-
-  mongo-express:
-    image: mongo-express
-    ports:
-      - "8083:8083"
