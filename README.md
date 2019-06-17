@@ -2,4 +2,5 @@
 Tools for the server management
 ## Source
 Filebeat:
-  https://medium.com/@bcoste/powerful-logging-with-docker-filebeat-and-elasticsearch-8ad021aecd87
+  Article: https://medium.com/@bcoste/powerful-logging-with-docker-filebeat-and-elasticsearch-8ad021aecd87
+  Git: https://github.com/bcoste/sample-filebeat-docker-logging
