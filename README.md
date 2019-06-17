@@ -27,7 +27,7 @@ Mongo Db  | sudo docker-compose up -d | must be run in the folder ./mongodb
 
 ----
 #### Ports usage
-Port       | Program | Forwared
+Port       | Program | Forwarded
 ------------- | ------------- | ------------- |
 27017 | mongo db | []
 9200 | elasticsearch | []
